@@ -10,9 +10,9 @@ Testing was performed on an Ace11
 ### Dependancies:<br>
 py-serial  http://pyserial.readthedocs.io/en/latest/pyserial.html
 
-Usage: python velocio_ace_remote.py [instruction]<br>
+### Usage: 
+    python velocio_ace_remote.py [instruction]
 
-<br><br>
 
 
 ### Control Instructions:
