@@ -1,19 +1,15 @@
 # velocio-ace-remote
 
-### Overview:<br>
+### Overview:
 A simple script to interact with the Velocio Ace PLC via USB
 
 Testing was performed on an Ace11
 
-
-<br><br>
-### Dependancies:<br>
+### Dependancies:
 py-serial  http://pyserial.readthedocs.io/en/latest/pyserial.html
 
 ### Usage: 
     python velocio_ace_remote.py [instruction]
-
-
 
 ### Control Instructions:
  
