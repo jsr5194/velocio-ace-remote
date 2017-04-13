@@ -1,7 +1,7 @@
 # velocio-ace-remote
 
 ### Overview:<br>
-A simple script to interact with the Velocio Ace PLC.
+A simple script to interact with the Velocio Ace PLC via USB
 
 Testing was performed on an Ace11
 
